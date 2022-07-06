@@ -1,0 +1,151 @@
+set_location_assignment PIN_D17 -to A1
+set_location_assignment PIN_B13 -to D[7]
+set_location_assignment PIN_B10 -to D[6]
+set_location_assignment PIN_B9 -to D[5]
+set_location_assignment PIN_B8 -to D[4]
+set_location_assignment PIN_B7 -to D[3]
+set_location_assignment PIN_B6 -to D[2]
+set_location_assignment PIN_B5 -to D[1]
+set_location_assignment PIN_B4 -to D[0]
+set_location_assignment PIN_H22 -to HEX0[6]
+set_location_assignment PIN_H21 -to HEX0[5]
+set_location_assignment PIN_C20 -to HEX0[4]
+set_location_assignment PIN_C19 -to HEX0[3]
+set_location_assignment PIN_F21 -to HEX0[2]
+set_location_assignment PIN_F22 -to HEX0[1]
+set_location_assignment PIN_E21 -to HEX0[0]
+set_location_assignment PIN_K21 -to HEX1[6]
+set_location_assignment PIN_L22 -to HEX1[5]
+set_location_assignment PIN_D20 -to HEX1[4]
+set_location_assignment PIN_D19 -to HEX1[3]
+set_location_assignment PIN_K22 -to HEX1[2]
+set_location_assignment PIN_J21 -to HEX1[1]
+set_location_assignment PIN_J22 -to HEX1[0]
+set_location_assignment PIN_N22 -to HEX2[6]
+set_location_assignment PIN_N21 -to HEX2[5]
+set_location_assignment PIN_F20 -to HEX2[4]
+set_location_assignment PIN_F19 -to HEX2[3]
+set_location_assignment PIN_M21 -to HEX2[2]
+set_location_assignment PIN_M22 -to HEX2[1]
+set_location_assignment PIN_L21 -to HEX2[0]
+set_location_assignment PIN_R21 -to HEX3[6]
+set_location_assignment PIN_U22 -to HEX3[5]
+set_location_assignment PIN_H20 -to HEX3[4]
+set_location_assignment PIN_H19 -to HEX3[3]
+set_location_assignment PIN_R22 -to HEX3[2]
+set_location_assignment PIN_P21 -to HEX3[1]
+set_location_assignment PIN_P22 -to HEX3[0]
+set_location_assignment PIN_W22 -to HEX4[6]
+set_location_assignment PIN_W21 -to HEX4[5]
+set_location_assignment PIN_M20 -to HEX4[4]
+set_location_assignment PIN_M19 -to HEX4[3]
+set_location_assignment PIN_V21 -to HEX4[2]
+set_location_assignment PIN_V22 -to HEX4[1]
+set_location_assignment PIN_U21 -to HEX4[0]
+set_location_assignment PIN_AB20 -to HEX5[6]
+set_location_assignment PIN_AA20 -to HEX5[5]
+set_location_assignment PIN_N20 -to HEX5[4]
+set_location_assignment PIN_N19 -to HEX5[3]
+set_location_assignment PIN_AA21 -to HEX5[2]
+set_location_assignment PIN_Y21 -to HEX5[1]
+set_location_assignment PIN_Y22 -to HEX5[0]
+set_location_assignment PIN_AA18 -to HEX6[6]
+set_location_assignment PIN_AB17 -to HEX6[5]
+set_location_assignment PIN_R19 -to HEX6[4]
+set_location_assignment PIN_P20 -to HEX6[3]
+set_location_assignment PIN_AB18 -to HEX6[2]
+set_location_assignment PIN_AA19 -to HEX6[1]
+set_location_assignment PIN_AB19 -to HEX6[0]
+set_location_assignment PIN_AB15 -to HEX7[6]
+set_location_assignment PIN_AA15 -to HEX7[5]
+set_location_assignment PIN_U20 -to HEX7[4]
+set_location_assignment PIN_R20 -to HEX7[3]
+set_location_assignment PIN_AA16 -to HEX7[2]
+set_location_assignment PIN_AB16 -to HEX7[1]
+set_location_assignment PIN_AA17 -to HEX7[0]
+set_location_assignment PIN_C21 -to SW1
+set_location_assignment PIN_D21 -to SW2
+set_location_assignment PIN_B21 -to SW_choose
+set_location_assignment PIN_T22 -to clk
+set_location_assignment PIN_C22 -to quick_low_led
+set_location_assignment PIN_C17 -to rst
+set_location_assignment PIN_E22 -to cpustate_led[1]
+set_location_assignment PIN_D22 -to cpustate_led[0]
+set_location_assignment PIN_E1 -to clr_led
+set_location_assignment PIN_A5 -to zload_led
+set_location_assignment PIN_A18 -to read_led
+set_location_assignment PIN_A7 -to rload_led
+set_location_assignment PIN_B1 -to trbus_led
+set_location_assignment PIN_A9 -to trload_led
+set_location_assignment PIN_A17 -to write_led
+set_location_assignment PIN_B2 -to rbus_led
+set_location_assignment PIN_A13 -to pcload_led
+set_location_assignment PIN_B3 -to drhbus_led
+set_location_assignment PIN_A3 -to drlbus_led
+set_location_assignment PIN_A10 -to drload_led
+set_location_assignment PIN_A8 -to irload_led
+set_location_assignment PIN_C2 -to membus_led
+set_location_assignment PIN_A4 -to pcbus_led
+set_location_assignment PIN_A14 -to pcinc_led
+set_location_assignment PIN_A15 -to arinc_led
+set_location_assignment PIN_A16 -to arload_led
+set_location_assignment PIN_D2 -to busmem_led
+set_location_assignment PIN_C1 -to acbus_led
+set_location_assignment PIN_A6 -to acload_led
+set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
+set_global_assignment -name FAMILY "Cyclone IV E"
+set_global_assignment -name DEVICE EP4CE40F23C8
+set_global_assignment -name TOP_LEVEL_ENTITY top
+set_global_assignment -name ORIGINAL_QUARTUS_VERSION 14.0
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "08:07:16  NOVEMBER 23, 2020"
+set_global_assignment -name LAST_QUARTUS_VERSION 14.0
+set_global_assignment -name PROJECT_OUTPUT_DIRECTORY output_files
+set_global_assignment -name MIN_CORE_JUNCTION_TEMP 0
+set_global_assignment -name MAX_CORE_JUNCTION_TEMP 85
+set_global_assignment -name DEVICE_FILTER_PIN_COUNT 484
+set_global_assignment -name ERROR_CHECK_FREQUENCY_DIVISOR 1
+set_global_assignment -name EDA_SIMULATION_TOOL "ModelSim-Altera (Verilog)"
+set_global_assignment -name EDA_OUTPUT_DATA_FORMAT "VERILOG HDL" -section_id eda_simulation
+set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
+set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
+set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
+set_global_assignment -name POWER_PRESET_COOLING_SOLUTION "23 MM HEAT SINK WITH 200 LFPM AIRFLOW"
+set_global_assignment -name POWER_BOARD_THERMAL_MODEL "NONE (CONSERVATIVE)"
+set_global_assignment -name EDA_TIME_SCALE "100 us" -section_id eda_simulation
+set_global_assignment -name EDA_TEST_BENCH_ENABLE_STATUS TEST_BENCH_MODE -section_id eda_simulation
+set_global_assignment -name EDA_NATIVELINK_SIMULATION_TEST_BENCH top_vlg_tst -section_id eda_simulation
+set_global_assignment -name EDA_TEST_BENCH_NAME top_vlg_tst -section_id eda_simulation
+set_global_assignment -name EDA_DESIGN_INSTANCE_NAME NA -section_id top_vlg_tst
+set_global_assignment -name EDA_TEST_BENCH_MODULE_NAME top_vlg_tst -section_id top_vlg_tst
+set_global_assignment -name STRATIX_DEVICE_IO_STANDARD "3.3-V LVTTL"
+set_global_assignment -name USE_CONFIGURATION_DEVICE ON
+set_global_assignment -name CYCLONEIII_CONFIGURATION_DEVICE EPCS64
+set_global_assignment -name CRC_ERROR_OPEN_DRAIN OFF
+set_global_assignment -name CYCLONEII_RESERVE_NCEO_AFTER_CONFIGURATION "USE AS REGULAR IO"
+set_global_assignment -name OUTPUT_IO_TIMING_NEAR_END_VMEAS "HALF VCCIO" -rise
+set_global_assignment -name OUTPUT_IO_TIMING_NEAR_END_VMEAS "HALF VCCIO" -fall
+set_global_assignment -name OUTPUT_IO_TIMING_FAR_END_VMEAS "HALF SIGNAL SWING" -rise
+set_global_assignment -name OUTPUT_IO_TIMING_FAR_END_VMEAS "HALF SIGNAL SWING" -fall
+set_global_assignment -name EDA_TEST_BENCH_NAME top_vlg_tst1 -section_id eda_simulation
+set_global_assignment -name EDA_DESIGN_INSTANCE_NAME NA -section_id top_vlg_tst1
+set_global_assignment -name EDA_TEST_BENCH_MODULE_NAME top_vlg_tst1 -section_id top_vlg_tst1
+set_global_assignment -name EDA_TEST_BENCH_FILE simulation/modelsim/top.vt -section_id top_vlg_tst
+set_global_assignment -name EDA_TEST_BENCH_FILE simulation/modelsim/top.vt -section_id top_vlg_tst1
+set_global_assignment -name VERILOG_FILE rtl/z.v
+set_global_assignment -name VERILOG_FILE rtl/tr.v
+set_global_assignment -name VERILOG_FILE rtl/top.v
+set_global_assignment -name VERILOG_FILE rtl/r.v
+set_global_assignment -name VERILOG_FILE rtl/pc.v
+set_global_assignment -name VERILOG_FILE rtl/m1.v
+set_global_assignment -name VERILOG_FILE rtl/ir.v
+set_global_assignment -name VERILOG_FILE rtl/dr.v
+set_global_assignment -name VERILOG_FILE rtl/cpu.v
+set_global_assignment -name VERILOG_FILE rtl/control.v
+set_global_assignment -name VERILOG_FILE rtl/ar.v
+set_global_assignment -name VERILOG_FILE rtl/alu.v
+set_global_assignment -name VERILOG_FILE rtl/ac.v
+set_global_assignment -name VERILOG_FILE rtl/light_show.v
+set_global_assignment -name VERILOG_FILE rtl/clk_div.v
+set_global_assignment -name VERILOG_FILE rtl/CPU_Controller.v
+set_global_assignment -name VERILOG_FILE rtl/qtsj.v
+set_global_assignment -name CDF_FILE "C:/Users/Carlos/Desktop/PCOcomplex_CourseDesign/complexcpu_processfile.cdf"

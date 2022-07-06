@@ -1,0 +1,7 @@
+Sun Dec 12 22:27:44 ?????? 2021
+Trace back: invalid command name ".main_pane.dataflow.interior.cs.body.pw.wf.top.tree.tree2"
+    while executing
+".main_pane.dataflow.interior.cs.body.pw.wf.top.tree.tree2 update"
+    ("after" script)
+  <2: ::tkerror {invalid command name ".main_pane.dataflow.interior.cs.body.pw.wf.top.tree.tree2"}
+  <1: ::bgerror {invalid command name ".main_pane.dataflow.interior.cs.body.pw.wf.top.tree.tree2"}

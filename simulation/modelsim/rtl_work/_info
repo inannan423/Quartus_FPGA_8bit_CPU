@@ -1,0 +1,366 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Desktop\PCO_complex_stu\simulation\modelsim
+vac
+Z1 IH0j?bl_XPU9?VX3Ok?0k>3
+Z2 V<VT6LoR;CP0MWE:_=aTIg3
+Z3 dD:\Desktop\PCO_complex_stu\simulation\modelsim
+Z4 w1639025621
+Z5 8D:/Desktop/PCO_complex_stu/rtl/ac.v
+Z6 FD:/Desktop/PCO_complex_stu/rtl/ac.v
+L0 2
+Z7 OV;L;10.1e;51
+r1
+31
+Z8 o-vlog01compat -work work -O0
+Z9 !s92 -vlog01compat -work work +incdir+D:/Desktop/PCO_complex_stu/rtl -O0
+Z10 !s100 `<NgTlNN0__Zz5_BOE0Jj0
+Z11 !s108 1639366179.731000
+Z12 !s107 D:/Desktop/PCO_complex_stu/rtl/ac.v|
+Z13 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Desktop/PCO_complex_stu/rtl|D:/Desktop/PCO_complex_stu/rtl/ac.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valu
+Z14 IV5=`=2KNJ9@AJO^[R]1U;3
+Z15 VOnFeM_jD<;4`Q98SfZBaE1
+R3
+Z16 w1639356263
+Z17 8D:/Desktop/PCO_complex_stu/rtl/alu.v
+Z18 FD:/Desktop/PCO_complex_stu/rtl/alu.v
+L0 2
+R7
+r1
+31
+R8
+R9
+Z19 !s100 aeMJfzHjGW9]cA6zXGbc50
+Z20 !s108 1639366179.539000
+Z21 !s107 D:/Desktop/PCO_complex_stu/rtl/alu.v|
+Z22 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Desktop/PCO_complex_stu/rtl|D:/Desktop/PCO_complex_stu/rtl/alu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+var
+Z23 ITz@oLQDccGIBLI]9mMZ@50
+Z24 V9o44f1eRz@O7`49^5hNCC2
+R3
+Z25 w1638672337
+Z26 8D:/Desktop/PCO_complex_stu/rtl/ar.v
+Z27 FD:/Desktop/PCO_complex_stu/rtl/ar.v
+L0 9
+R7
+r1
+31
+R8
+R9
+Z28 !s100 Z1LDOjAYAn`UA[NU:Fe=H1
+Z29 !s108 1639366179.338000
+Z30 !s107 D:/Desktop/PCO_complex_stu/rtl/ar.v|
+Z31 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Desktop/PCO_complex_stu/rtl|D:/Desktop/PCO_complex_stu/rtl/ar.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vclk_div
+Z32 I>_40Yl6boCOajC4l?:W^02
+Z33 VBL^JGUH?:P=jZGFZ1=d1L0
+R3
+Z34 w1638671278
+Z35 8D:/Desktop/PCO_complex_stu/rtl/clk_div.v
+Z36 FD:/Desktop/PCO_complex_stu/rtl/clk_div.v
+L0 3
+R7
+r1
+31
+R8
+R9
+Z37 !s100 l<0EJimaz`7:^gVdnQ8kX0
+Z38 !s108 1639366180.132000
+Z39 !s107 D:/Desktop/PCO_complex_stu/rtl/clk_div.v|
+Z40 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Desktop/PCO_complex_stu/rtl|D:/Desktop/PCO_complex_stu/rtl/clk_div.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrol
+Z41 IObn2UHY^8Dj2;ei^jhKTV2
+Z42 VP@<6Q_n[0AN3IdXgjRmgT0
+R3
+Z43 w1639356262
+Z44 8D:/Desktop/PCO_complex_stu/rtl/control.v
+Z45 FD:/Desktop/PCO_complex_stu/rtl/control.v
+L0 16
+R7
+r1
+31
+R8
+R9
+Z46 !s100 0ViSMFG4kRYb;aoT1NN4A3
+Z47 !s108 1639366179.148000
+Z48 !s107 D:/Desktop/PCO_complex_stu/rtl/control.v|
+Z49 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Desktop/PCO_complex_stu/rtl|D:/Desktop/PCO_complex_stu/rtl/control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcpu
+Z50 IL:N`kk3PJIlPz2]YQELoh3
+Z51 V:Bf4`GPAcnnEDzYjJ]Z7c3
+R3
+R16
+Z52 8D:/Desktop/PCO_complex_stu/rtl/cpu.v
+Z53 FD:/Desktop/PCO_complex_stu/rtl/cpu.v
+L0 3
+R7
+r1
+31
+R8
+R9
+Z54 !s100 J>[P0cHJBO0AL=]NPlDBD1
+Z55 !s108 1639366178.979000
+Z56 !s107 D:/Desktop/PCO_complex_stu/rtl/cpu.v|
+Z57 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Desktop/PCO_complex_stu/rtl|D:/Desktop/PCO_complex_stu/rtl/cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCPU_Controller
+Z58 IfK@M4fD@i9nmBc]oTj7B`2
+Z59 VgJP;oog[KFk?ZRZKj5F3P2
+R3
+Z60 w1638672404
+Z61 8D:/Desktop/PCO_complex_stu/rtl/CPU_Controller.v
+Z62 FD:/Desktop/PCO_complex_stu/rtl/CPU_Controller.v
+L0 7
+R7
+r1
+31
+R8
+R9
+Z63 n@c@p@u_@controller
+Z64 !s100 o3LliHV[oSz67><GcXJ6h0
+Z65 !s108 1639366180.323000
+Z66 !s107 D:/Desktop/PCO_complex_stu/rtl/CPU_Controller.v|
+Z67 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Desktop/PCO_complex_stu/rtl|D:/Desktop/PCO_complex_stu/rtl/CPU_Controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdr
+Z68 IG[^l=BTF:^I?=R<fZ6kTa1
+Z69 VCVY5c:DI4WF`C5FNFT<UO2
+R3
+Z70 w1639013082
+Z71 8D:/Desktop/PCO_complex_stu/rtl/dr.v
+Z72 FD:/Desktop/PCO_complex_stu/rtl/dr.v
+L0 2
+R7
+r1
+31
+R8
+R9
+Z73 !s100 jS8?Q7ScVhL[bUY<LE@L[0
+Z74 !s108 1639366178.809000
+Z75 !s107 D:/Desktop/PCO_complex_stu/rtl/dr.v|
+Z76 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Desktop/PCO_complex_stu/rtl|D:/Desktop/PCO_complex_stu/rtl/dr.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vir
+Z77 IbY6Q@f0@ImC@NVJUH^2If3
+Z78 VT6Ro5YGOz[EPI]]@b2oOb3
+R3
+Z79 w1639275637
+Z80 8D:/Desktop/PCO_complex_stu/rtl/ir.v
+Z81 FD:/Desktop/PCO_complex_stu/rtl/ir.v
+L0 3
+R7
+r1
+31
+R8
+R9
+Z82 !s100 fFDX7a^Mf456;CZ?@;NQG0
+Z83 !s108 1639366178.631000
+Z84 !s107 D:/Desktop/PCO_complex_stu/rtl/ir.v|
+Z85 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Desktop/PCO_complex_stu/rtl|D:/Desktop/PCO_complex_stu/rtl/ir.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vlight_show
+Z86 IZWgJ5]e3B9PdTbgJW0mSk3
+Z87 V8d8W_ogll:8_6Sa1di]1=2
+R3
+Z88 w1639319053
+Z89 8D:/Desktop/PCO_complex_stu/rtl/light_show.v
+Z90 FD:/Desktop/PCO_complex_stu/rtl/light_show.v
+L0 13
+R7
+r1
+31
+R8
+R9
+Z91 !s100 fI9W?HJMnL?=hFb7NO5MC1
+Z92 !s108 1639366179.933000
+Z93 !s107 D:/Desktop/PCO_complex_stu/rtl/light_show.v|
+Z94 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Desktop/PCO_complex_stu/rtl|D:/Desktop/PCO_complex_stu/rtl/light_show.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpc
+Z95 IT5^CcPzA<zK<JbR53C5Q?2
+Z96 VmRJ@8@k8LF4@AeEETcN4T3
+R3
+R16
+Z97 8D:/Desktop/PCO_complex_stu/rtl/pc.v
+Z98 FD:/Desktop/PCO_complex_stu/rtl/pc.v
+L0 9
+R7
+r1
+31
+R8
+R9
+Z99 !s100 =k9a6EOzzeoiO`VFEBX_Z1
+Z100 !s108 1639366178.403000
+Z101 !s107 D:/Desktop/PCO_complex_stu/rtl/pc.v|
+Z102 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Desktop/PCO_complex_stu/rtl|D:/Desktop/PCO_complex_stu/rtl/pc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vqtsj
+Z103 IFm6^59X_Ihzek^6Kn3DSl0
+Z104 VL__P<B;7Mo?8K9;LcUd[61
+R3
+Z105 w1638672642
+Z106 8D:/Desktop/PCO_complex_stu/rtl/qtsj.v
+Z107 FD:/Desktop/PCO_complex_stu/rtl/qtsj.v
+L0 13
+R7
+r1
+31
+R8
+R9
+!i10b 1
+Z108 !s100 Nl2XJ>Q9ISh[fUD>Xb2]j1
+!s85 0
+Z109 !s108 1639366180.567000
+Z110 !s107 D:/Desktop/PCO_complex_stu/rtl/qtsj.v|
+Z111 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Desktop/PCO_complex_stu/rtl|D:/Desktop/PCO_complex_stu/rtl/qtsj.v|
+!s101 -O0
+vr
+Z112 IMa<VRmbmB2nj8b>cf2ZW51
+Z113 VVD]=?]d31Yz7H=Xei]6az1
+R3
+R79
+Z114 8D:/Desktop/PCO_complex_stu/rtl/r.v
+Z115 FD:/Desktop/PCO_complex_stu/rtl/r.v
+L0 2
+R7
+r1
+31
+R8
+R9
+Z116 !s100 j1:BWVLmW1X@H]X[;ZRmW0
+Z117 !s108 1639366178.156000
+Z118 !s107 D:/Desktop/PCO_complex_stu/rtl/r.v|
+Z119 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Desktop/PCO_complex_stu/rtl|D:/Desktop/PCO_complex_stu/rtl/r.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vram
+Z120 I`5lH4>:EdVUOmUcVO?N<F2
+Z121 VJBb5h44ne>;`:Z8@MUeVS3
+R3
+Z122 w1639105833
+Z123 8D:/Desktop/PCO_complex_stu/rtl/ram.v
+Z124 FD:/Desktop/PCO_complex_stu/rtl/ram.v
+L0 14
+R7
+r1
+31
+R8
+Z125 !s100 fKPAZOhDBN0AUTMUC14;M2
+Z126 !s108 1639366177.336000
+Z127 !s107 D:/Desktop/PCO_complex_stu/rtl/ram.v|
+Z128 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Desktop/PCO_complex_stu/rtl|D:/Desktop/PCO_complex_stu/rtl/ram.v|
+R9
+!i10b 1
+!s85 0
+!s101 -O0
+vtop
+Z129 IUMAO[WBnoMjnHM7zOXMmb2
+Z130 VUdaWl?dCXZ1_GPBjhHS:_1
+R3
+Z131 w1639354719
+Z132 8D:/Desktop/PCO_complex_stu/rtl/top.v
+Z133 FD:/Desktop/PCO_complex_stu/rtl/top.v
+L0 5
+R7
+r1
+31
+R8
+R9
+Z134 !s100 DWg<E^S;<UOXHCUR71mmb1
+Z135 !s108 1639366177.932000
+Z136 !s107 D:/Desktop/PCO_complex_stu/rtl/top.v|
+Z137 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Desktop/PCO_complex_stu/rtl|D:/Desktop/PCO_complex_stu/rtl/top.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtop_vlg_tst
+!i10b 1
+!s100 0eHco6[[<eZ9?^V;OMG290
+IQUen=bSZ3jP@1CeR63<6G2
+VWH`X8iAJ@;Z6_Z>8HHbjI2
+R3
+w1639366134
+8D:/Desktop/PCO_complex_stu/simulation/modelsim/top.vt
+FD:/Desktop/PCO_complex_stu/simulation/modelsim/top.vt
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1639366180.765000
+!s107 D:/Desktop/PCO_complex_stu/simulation/modelsim/top.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Desktop/PCO_complex_stu/simulation/modelsim|D:/Desktop/PCO_complex_stu/simulation/modelsim/top.vt|
+!s101 -O0
+R8
+!s92 -vlog01compat -work work +incdir+D:/Desktop/PCO_complex_stu/simulation/modelsim -O0
+vtr
+Z138 IT;L=2@Y:8^XkNka=cC80n0
+Z139 Vg<II86?Lk9I?]mBFLT6hc1
+R3
+R43
+Z140 8D:/Desktop/PCO_complex_stu/rtl/tr.v
+Z141 FD:/Desktop/PCO_complex_stu/rtl/tr.v
+L0 2
+R7
+r1
+31
+R8
+R9
+Z142 !s100 E11XHd7h6Lh3VeW@g]DaY0
+Z143 !s108 1639366177.726000
+Z144 !s107 D:/Desktop/PCO_complex_stu/rtl/tr.v|
+Z145 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Desktop/PCO_complex_stu/rtl|D:/Desktop/PCO_complex_stu/rtl/tr.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vz
+Z146 Ice]AESJ?]CB0GXIiQS2?B0
+Z147 V;ObSGWH=2@67KbT2Bgfjh2
+R3
+Z148 w1639365856
+Z149 8D:/Desktop/PCO_complex_stu/rtl/z.v
+Z150 FD:/Desktop/PCO_complex_stu/rtl/z.v
+L0 2
+R7
+r1
+31
+R8
+R9
+Z151 !s100 <e98V`HEPH7RDVD:^mgZ^0
+Z152 !s108 1639366177.530000
+Z153 !s107 D:/Desktop/PCO_complex_stu/rtl/z.v|
+Z154 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Desktop/PCO_complex_stu/rtl|D:/Desktop/PCO_complex_stu/rtl/z.v|
+!i10b 1
+!s85 0
+!s101 -O0

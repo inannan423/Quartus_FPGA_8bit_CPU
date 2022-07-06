@@ -1,0 +1,5 @@
+# Reading D:/Modeltech_5.7c/tcl/vsim/pref.tcl 
+# vsim {E:\??\≥ı?cpu…Ëº?®ÕÍ?Ω??©\µÿ?÷ÿ–∑÷≈‰\alu.v} 
+# ** Error: (vsim-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+# Error loading design
